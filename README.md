@@ -1,5 +1,5 @@
 ## Bored App
-Bored app is an application that make use of [bored](https://www.boredapi.com/) Api, which displayes activities one can do when bored. I developed this application 
+Bored app is an application that make use of [bored](https://www.boredapi.com/) Api, which displays activities one can do when bored. I developed this application 
 with an aim to learning the following concepts:-
 
 - [DI with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
